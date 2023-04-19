@@ -9,9 +9,12 @@ function App() {
      <h1>ramehsh</h1>
     <h1>i have done some changes....</h1>
     <h1>nazeema done some changees</h1>
+
     <h1>anil kumar</h1>
     <h1>anil </h1>
     <h3>sam</h3>
+    <h2>symsai</h2>
+    <h1>manju</h1>
       </div>
   );
 }
