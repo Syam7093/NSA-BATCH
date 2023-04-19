@@ -16,6 +16,7 @@ function App() {
     <h2>symsai</h2>
     <h1>manju</h1>
     <h1>gopi</h1>
+    <h1>lalallagit</h1>
       </div>
   );
 }
