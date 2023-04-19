@@ -20,6 +20,7 @@ function App() {
     <h1>hahahaha</h1>
     <h1>ravi</h1>
     <h1>jbvbvb</h1>
+    <h2>BRN infotech</h2>
       </div>
   );
 }
