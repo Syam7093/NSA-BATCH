@@ -2,9 +2,23 @@
 {
   width:700px;
 }
+ 
 .navColor{
   color:white!important;
   font-weight:bold !important;
+}
+.allCardss{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
 }
 #navbarScrollingDropdown
 {
