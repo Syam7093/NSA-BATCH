@@ -3,6 +3,7 @@ import './App.css';
 import Anil from './components/Anil';
 import Najeema from './components/Najeema';
 import Sss from './components/Sss';
+import "../node_modules/bootstrap/dist/css/bootstrap.css"
 // import Syam from './components/Syam';
 
 function App() {
