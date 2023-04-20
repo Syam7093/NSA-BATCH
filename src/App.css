@@ -44,6 +44,7 @@ justify-content: space-evenly;
   background-color: tomato;
   border-radius: 2px;
   padding: 1px;
+  text-align: center;
 }
 .flipcartshoping-card{
   display: flex;
