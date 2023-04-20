@@ -56,16 +56,23 @@ justify-content: space-evenly;
 .card-margin{
   margin-top: 20px;
 }
-.imgs-card{
-  width: 250px;
-  height: 200px;
-  transition: 0.5;
-  background-color: rgb(251, 230, 178);
+.card-margin:hover{
+  transform: scale(1.03);
 }
- .imgs-card:hover{
+.imgs-card{
+  width: 100px;
+  height: 150px;
+ 
+ 
+  transition: 0.5;
+}
+ /* .imgs-card:hover{
 transition: 0.5s;
 background-color: rgb(161, 205, 244);
-} 
+}  */
+.imgs-card:hover{
+  transform: scale(1.3);
+}
 .add-card{
 width: 150px;
 height: 35px;

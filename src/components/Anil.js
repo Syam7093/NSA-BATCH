@@ -25,7 +25,7 @@ function Anil() {
     </Card>
     </div>
 
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://i02.appmifile.com/11_operator_in/23/04/2021/a3fa26aeb0a0e8ae38f38fb311d644e8.png" />
       <Card.Body>
@@ -47,7 +47,7 @@ function Anil() {
     </Card>
     </div>
 
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card' src="https://m.media-amazon.com/images/I/61GA2mAD4KL._SX522_.jpg" />
       <Card.Body>
@@ -68,7 +68,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://m.media-amazon.com/images/I/617MPEZB5mL._SX679_.jpg" />
       <Card.Body>
@@ -89,7 +89,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://poojaelectronics.in/storage/2022/12/Canon-EOS-R6-Mark-II-Mirrorless-Camera-with-24-105mm-f4-Lens-Online-Buy-India_01.jpg" />
       <Card.Body>
@@ -113,7 +113,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://m.media-amazon.com/images/I/71Q24PwtvaL._SL1500_.jpg" />
       <Card.Body>
@@ -125,8 +125,8 @@ function Anil() {
             <li>Display Technology:LED</li>
             <li>Product Dimensions	2.31D x 11.27W x 7.06H Meters</li>
             <li>Resolution	4K</li>
-            <li>Refresh Rate	60 Hz</li>
-            <li> Additional Features: Apple Airplay | Apple Homekit  Google Play </li>
+            {/* <li>Refresh Rate	60 Hz</li> */}
+            {/* <li> Additional Features: Apple Airplay | Apple Homekit  Google Play </li> */}
             
           </ul>
           <p>price $68899</p>
@@ -135,7 +135,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://m.media-amazon.com/images/I/81d5542EVsL._SL1500_.jpg" />
       <Card.Body>
@@ -155,7 +155,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://www.lg.com/in/images/microwave-ovens/md07536274/gallery/MC2846BR-Microwave-ovens-Top-Right-Detail-view-D-08.jpg" />
       <Card.Body>
@@ -166,8 +166,8 @@ function Anil() {
             <li>Convection : Can be used for baking along with grilling, reheating, defrosting and cooking</li>
             <li>Touch Key Pad (Membrane) is sensitive to touch and easy to clean</li>
             <li>Child Lock : Ensures complete safety especially for homes with small children</li>
-            <li>7 Days Service Center Replacement/Repair</li>
-            <li>Connector type: usb type c</li>
+            {/* <li>7 Days Service Center Replacement/Repair</li>
+            <li>Connector type: usb type c</li> */}
             
           </ul>
           <p>price $10399</p>
@@ -176,7 +176,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://www.freedomcart.com/image/cache/assure/freedomcart-pigeon-joy-1-8-li-rice-cooker-700x700.JPG" />
       <Card.Body>
@@ -198,7 +198,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
       <Card.Body>
@@ -221,7 +221,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
       <Card.Body>
@@ -244,7 +244,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
       <Card.Body>
@@ -267,7 +267,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
       <Card.Body>
@@ -290,7 +290,7 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
-    <div>
+    <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
       <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
       <Card.Body>
