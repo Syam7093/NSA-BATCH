@@ -2,7 +2,7 @@ import React from 'react'
 
 function Najeema() {
   return (
-    <div>Najeema</div>
+    <div></div>
   )
 }
 
