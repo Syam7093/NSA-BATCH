@@ -2,7 +2,7 @@ import React from 'react'
 
 function Anil() {
   return (
-    <div>Anil</div>
+    <div></div>
   )
 }
 

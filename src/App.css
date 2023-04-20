@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.allCardss{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+
 
 .App-logo {
   height: 40vmin;
