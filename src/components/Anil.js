@@ -223,7 +223,7 @@ function Anil() {
     </div>
     <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
-      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Img variant="top" className='imgs-card'  src="https://m.media-amazon.com/images/I/41OBI-6VRLL.jpg" />
       <Card.Body>
         <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
         <Card.Text>
@@ -238,7 +238,7 @@ function Anil() {
             <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
             
           </ul>
-          <p>price $899</p>
+          <p>price $2599</p>
         </Card.Text>
         <Button variant="primary" className='add-card'>Add Cart</Button>
       </Card.Body>
@@ -246,7 +246,7 @@ function Anil() {
     </div>
     <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
-      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Img variant="top" className='imgs-card'  src="https://www.lg.com/in/images/split-ac/md07565434/gallery/RS-Q20SWZE-split-ac-Front-View-D-01.jpg" />
       <Card.Body>
         <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
         <Card.Text>
@@ -261,7 +261,7 @@ function Anil() {
             <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
             
           </ul>
-          <p>price $899</p>
+          <p>price $89999</p>
         </Card.Text>
         <Button variant="primary" className='add-card'>Add Cart</Button>
       </Card.Body>
@@ -269,7 +269,7 @@ function Anil() {
     </div>
     <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
-      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Img variant="top" className='imgs-card'  src="https://m.media-amazon.com/images/I/81yIAF1sKvL._SL1500_.jpg" />
       <Card.Body>
         <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
         <Card.Text>
@@ -284,7 +284,7 @@ function Anil() {
             <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
             
           </ul>
-          <p>price $899</p>
+          <p>price $799</p>
         </Card.Text>
         <Button variant="primary" className='add-card'>Add Cart</Button>
       </Card.Body>
@@ -292,7 +292,7 @@ function Anil() {
     </div>
     <div  className='card-margin'>
     <Card style={{ width: '13rem',height:'30rem' }}>
-      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Img variant="top" className='imgs-card'  src="https://m.media-amazon.com/images/I/71-XsJoSe1L._SX466_.jpg" />
       <Card.Body>
         <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
         <Card.Text>
@@ -307,7 +307,7 @@ function Anil() {
             <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
             
           </ul>
-          <p>price $899</p>
+          <p>price $15999</p>
         </Card.Text>
         <Button variant="primary" className='add-card'>Add Cart</Button>
       </Card.Body>
