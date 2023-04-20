@@ -221,6 +221,98 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
+    <div>
+    <Card style={{ width: '13rem',height:'30rem' }}>
+      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Body>
+        <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
+        <Card.Text>
+          <ul className='mobielstextsize'>
+            <li>Brand:Nova Plus</li>
+            <li>BrandNova PlusModel Amaze NI 20</li>
+            <li>Type Dry</li>
+            <li>Colorwhite & Turquoise</li>
+            <li>Soleplate type Non Stick Du point American Heritage Coating</li>
+            
+           
+            <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
+            
+          </ul>
+          <p>price $899</p>
+        </Card.Text>
+        <Button variant="primary" className='add-card'>Add Cart</Button>
+      </Card.Body>
+    </Card>
+    </div>
+    <div>
+    <Card style={{ width: '13rem',height:'30rem' }}>
+      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Body>
+        <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
+        <Card.Text>
+          <ul className='mobielstextsize'>
+            <li>Brand:Nova Plus</li>
+            <li>BrandNova PlusModel Amaze NI 20</li>
+            <li>Type Dry</li>
+            <li>Colorwhite & Turquoise</li>
+            <li>Soleplate type Non Stick Du point American Heritage Coating</li>
+            
+           
+            <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
+            
+          </ul>
+          <p>price $899</p>
+        </Card.Text>
+        <Button variant="primary" className='add-card'>Add Cart</Button>
+      </Card.Body>
+    </Card>
+    </div>
+    <div>
+    <Card style={{ width: '13rem',height:'30rem' }}>
+      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Body>
+        <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
+        <Card.Text>
+          <ul className='mobielstextsize'>
+            <li>Brand:Nova Plus</li>
+            <li>BrandNova PlusModel Amaze NI 20</li>
+            <li>Type Dry</li>
+            <li>Colorwhite & Turquoise</li>
+            <li>Soleplate type Non Stick Du point American Heritage Coating</li>
+            
+           
+            <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
+            
+          </ul>
+          <p>price $899</p>
+        </Card.Text>
+        <Button variant="primary" className='add-card'>Add Cart</Button>
+      </Card.Body>
+    </Card>
+    </div>
+    <div>
+    <Card style={{ width: '13rem',height:'30rem' }}>
+      <Card.Img variant="top" className='imgs-card'  src="https://rukminim1.flixcart.com/image/416/416/l2p23rk0/iron/a/v/i/-original-imagdz3jtfpj8da9.jpeg?q=70" />
+      <Card.Body>
+        <Card.Title className='card-titlesamsung'>Deal of the day</Card.Title>
+        <Card.Text>
+          <ul className='mobielstextsize'>
+            <li>Brand:Nova Plus</li>
+            <li>BrandNova PlusModel Amaze NI 20</li>
+            <li>Type Dry</li>
+            <li>Colorwhite & Turquoise</li>
+            <li>Soleplate type Non Stick Du point American Heritage Coating</li>
+            
+           
+            <li>customer needs to call us on 080 4161 5050 or mail us on Support@novaindia.co</li>
+            
+          </ul>
+          <p>price $899</p>
+        </Card.Text>
+        <Button variant="primary" className='add-card'>Add Cart</Button>
+      </Card.Body>
+    </Card>
+    </div>
     </div>
   )
 }
