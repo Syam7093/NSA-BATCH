@@ -43,3 +43,45 @@ justify-content: space-evenly;
     transform: rotate(360deg);
   }
 }
+.mobielstextsize{
+  font-size: 10px;
+}
+.card-titlesamsung{
+  font-size: 4px;
+  background-color: tomato;
+  border-radius: 2px;
+  padding: 1px;
+}
+.flipcartshoping-card{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+.card-margin{
+  margin-top: 20px;
+}
+.imgs-card{
+  width: 250px;
+  height: 200px;
+  transition: 0.5;
+  background-color: rgb(251, 230, 178);
+}
+ .imgs-card:hover{
+transition: 0.5s;
+background-color: rgb(161, 205, 244);
+} 
+.add-card{
+width: 150px;
+height: 35px;
+transition: 0.6s;
+
+}
+.add-card:hover{
+  background-color: rgb(183, 21, 21);
+  transition: 0.5s;
+  color: bisque;
+}
+
