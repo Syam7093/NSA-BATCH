@@ -313,6 +313,82 @@ function Anil() {
       </Card.Body>
     </Card>
     </div>
+  <div className='anil'>
+      <div>
+      <h6 className='about-p'>ABOUT</h6>
+      <div className='para-div'>
+      <p>Contact Us</p>
+        <p>About Us</p>
+        <p>Careers</p>
+        <p>Flipkart Store</p>
+        <p>Press</p>
+        <p>Flipkart Delivery</p>
+        <p>Corporate Information</p>
+        </div>
+      </div>
+      <div>
+      <h6 className='about-p'>HELP</h6>
+      <div  className='para-div'>
+      <p>Payments</p>
+        <p>Shipping</p>
+        <p>Cancellation</p>
+        <p>FAQ</p>
+        <p>Report Infringement</p>
+        <p>Flipkart Delivery</p>
+        <p>Corporate Information</p>
+        </div>
+      </div>
+      <div>
+      <h6 className='about-p'>CONSUMER POLICY</h6>
+      <div  className='para-div'>
+      <p>Contact Us</p>
+      <p>Return Policy</p>
+        <p>Terms Of Use</p>
+        <p>Security</p>
+        <p>Privasy</p>
+        <p>Sitemap</p>
+        <p>Grievance Redressal</p>
+        <p>EPR Compliance</p>
+        </div>
+      </div>
+      <div>
+      <h6 className='about-p'>SOCIAL</h6>
+      <div  className='para-div'>
+      <p>Facebook</p>
+        <p>Twitter</p>
+        <p>YouTube</p>
+        </div>
+      </div>
+      <div>
+      <h6 className='about-p'>Mail Us</h6>
+      <div  className='para-div'>
+      <p>Flipkart Internet Private Limited,</p>
+        <p>Buildings Alyssa, Begonia &</p>
+        <p>Clove Embassy Tech Village,</p>
+        <p>Outer Ring Road, Devarabeesanahalli Village,</p>
+        <p>Bengaluru, 560103,</p>
+        <p>Karnataka, India</p>
+       
+        </div>
+      </div>
+
+      <div>
+      <h6 className='about-p'>Registered Office Address</h6>
+      <div  className='para-div'>
+      <p>Flipkart Internet Private Limited,</p>
+        <p>Buildings Alyssa, Begonia &</p>
+        <p>Clove Embassy Tech Village,</p>
+        <p>Outer Ring Road, Devarabeesanahalli Village,</p>
+        <p>Bengaluru, 560103,</p>
+        <p>Karnataka, India</p>
+        <p>CIN : U51109KA2012PTC066107</p>
+        <p>Telephone: 044-45614700</p>
+       
+        </div>
+        
+        </div>
+       </div> 
+       
     </div>
   )
 }
