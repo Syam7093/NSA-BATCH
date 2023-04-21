@@ -1,6 +1,13 @@
  
 import React from 'react'
 import { Navbar,Container,Nav,Form,NavDropdown} from 'react-bootstrap'
+// import { icons } from 'react-icons'
+// import { IconName } from "react-icons/fa";
+import * as Icon from 'react-bootstrap-icons';
+// import { BarChartLineFill } from "react-bootstrap-icons";
+// import { Icon } from 'react-bootstrap-icons';
+
+
 
 // import React from 'react'
 // import { Card,Button } from 'react-bootstrap'
@@ -45,8 +52,12 @@ function Sss() {
               <NavDropdown.Item href="#action5">
                 Coupons
               </NavDropdown.Item>
+              
             </NavDropdown>
-            
+            <Nav.Link href="#action2" className="navColor"><Icon.Cart4
+      color="gold"
+      size={25}
+      className="align-top"></Icon.Cart4>Cart</Nav.Link>
           </Nav>
           
           
