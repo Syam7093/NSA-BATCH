@@ -12,6 +12,14 @@ display: flex;
 flex-direction: row;
 justify-content: space-evenly;
 }
+.cards{
+  padding:30px;
+
+}
+.cards:hover{
+  transform: scale(1.1);
+}
+
 
 
 
