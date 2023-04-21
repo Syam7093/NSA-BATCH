@@ -4,15 +4,21 @@ import {Carousel} from 'react-bootstrap';
 
 
 
+
+
 function Najeema() {
+  
   return (
-    <div>
-     <div>
-     <Carousel>
-        <Carousel.Item>
+
+   
+   <div >
+   <div>
+      <Carousel >
+        <Carousel.Item >
+
           <img
             className="d-block w-100"
-            src="https://rukminim1.flixcart.com/fk-p-flap/1688/280/image/a37c7aa9669fcd4c.jpg?q=50"
+            src="https://rukminim1.flixcart.com/fk-p-flap/1688/280/image/a37c7aa9669fcd4c.jpg?q=50,"
             alt="Third slide"
           />
         </Carousel.Item>
@@ -50,9 +56,10 @@ function Najeema() {
             src="https://rukminim1.flixcart.com/fk-p-flap/1688/280/image/d6b8eb49acbc80a0.jpg?q=50"
             alt="Third slide"
           />
-          <h1>sai</h1>
+          
         </Carousel.Item>
       </Carousel>
+
      </div>
 
 
@@ -62,14 +69,19 @@ function Najeema() {
 
 
 
+     
+      
+      </div>
 
 
 
 
 
 
-    </div>
-  )
+
+
+    
+  );
 }
 
 export default Najeema
